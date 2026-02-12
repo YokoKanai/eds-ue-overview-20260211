@@ -1,7 +1,7 @@
 {
   "mappings": [
     "/content/eds-202602/:/",
-    "/content/aeds-202602/configuration:/.helix/config.json",
+    "/content/eds-202602/configuration:/.helix/config.json",
     "/content/eds-202602/metadata:/metadata.json"
   ],
   "includes": [
